@@ -7,3 +7,5 @@ To avoid processing a node more than once, we use a boolean visited array. For s
 The Depth First Search (DFS) Main function is used for the case if all vertices are not reachable from the starting vertex.
 
 Time Complexity: O(V+E) where V is number of vertices in the graph and E is number of edges in the graph.
+
+there are much more things to do with the Graphs and in BFS we use a queue and a stack in DFS.
